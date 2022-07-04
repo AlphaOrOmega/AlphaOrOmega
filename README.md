@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlphaOrOmega
 - 👀 I’m interested in coding/cybersec
 - 🌱 I’m currently learning english
-- 💞️ I had never coded with anyone on a project
+- 💞️ I never coded with anyone on a project
 > - 📫 How to reach me julien.millionbalard@lilo.org
 - Don't be shy if u would contact me, it should be fun to answer any kind of questions or work together :)
 <!---
